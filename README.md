@@ -2,9 +2,6 @@
 
 🎓 I'm a recent Computer Science graduate from the **University of Waterloo**, passionate about building user-focused applications.
 
-### 📌 Currently looking for ...
-- Junior / New Grad **Frontend** and **Full-Stack** developer roles 
-
 ### 🚀 Previously worked as ...
 - 🏀 Frontend Software Developer Intern @ [theScore](https://thescore.bet/) (8-months)
 - 🧭 Software Developer Intern @ [Mappedin](https://www.mappedin.com/)
